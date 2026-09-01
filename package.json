@@ -1,0 +1,34 @@
+{
+  "name": "ai-citation-readiness",
+  "version": "1.0.0",
+  "description": "A private five-signal website clarity and evidence mini-audit for the command line.",
+  "keywords": [
+    "ai-seo",
+    "answer-engine-optimization",
+    "generative-engine-optimization",
+    "website-audit",
+    "citation-readiness",
+    "seo-cli"
+  ],
+  "license": "MIT",
+  "author": "Klyrone Labs",
+  "bin": {
+    "ai-citation-readiness": "cli.js"
+  },
+  "files": [
+    "cli.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kk497055/ai-citation-readiness-cli.git"
+  },
+  "homepage": "https://ai-citation-mini-audit.harry-porter78.chatgpt.site",
+  "bugs": {
+    "url": "https://github.com/kk497055/ai-citation-readiness-cli/issues"
+  }
+}
