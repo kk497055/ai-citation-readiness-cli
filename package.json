@@ -1,6 +1,6 @@
 {
   "name": "ai-citation-readiness",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A private five-signal website clarity and evidence mini-audit for the command line.",
   "keywords": [
     "ai-seo",
@@ -27,7 +27,7 @@
     "type": "git",
     "url": "git+https://github.com/kk497055/ai-citation-readiness-cli.git"
   },
-  "homepage": "https://ai-citation-mini-audit.harry-porter78.chatgpt.site",
+  "homepage": "https://github.com/kk497055/ai-citation-readiness-cli",
   "bugs": {
     "url": "https://github.com/kk497055/ai-citation-readiness-cli/issues"
   }

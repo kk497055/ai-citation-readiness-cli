@@ -16,7 +16,6 @@ The complete offline scorecard adds five audit categories, prioritized fixes, a 
 
 - [Get the full toolkit for $9](https://payhip.com/b/Kez3L)
 - [Alternative checkout on itch.io](https://kk497055.itch.io/ai-citation-readiness-scorecard)
-- [Try the browser mini-audit](https://ai-citation-mini-audit.harry-porter78.chatgpt.site)
 
 This tool measures clarity and evidence signals. It cannot guarantee indexing, ranking, or citation by any search engine or AI system.
 
