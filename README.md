@@ -18,7 +18,10 @@ The complete offline scorecard adds five audit categories, prioritized fixes, a 
 
 - [Compare consultation and self-serve options](https://klyrone.com/tools/ai-citation-readiness)
 - [Get the full toolkit for $9](https://payhip.com/b/Kez3L)
+- [Buy on Gumroad for $9](https://kamranix65.gumroad.com/l/ai-citation-readiness-toolkit)
 - [Alternative checkout on itch.io](https://kk497055.itch.io/ai-citation-readiness-scorecard)
+
+Prefer a guided book format? The companion workbook is available as a [Kindle edition](https://www.amazon.com/dp/B0HHCY6MGD) and [paperback](https://www.amazon.com/dp/B0HHD5CG1P).
 
 This tool measures clarity and evidence signals. It cannot guarantee indexing, ranking, or citation by any search engine or AI system.
 
