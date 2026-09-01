@@ -12,6 +12,8 @@ The audit asks five yes/no questions, calculates a directional score, and prints
 
 [Run the visual browser audit on Klyrone](https://klyrone.com/tools/ai-citation-readiness)
 
+Prefer continuous checks? Add the free [AI Citation Readiness Check from GitHub Marketplace](https://github.com/marketplace/actions/ai-citation-readiness-check) to a repository workflow.
+
 ## Full 25-point toolkit
 
 The complete offline scorecard adds five audit categories, prioritized fixes, a copy-ready report, reusable templates, printing, and unlimited private audits.
